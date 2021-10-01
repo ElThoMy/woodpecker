@@ -1,0 +1,20 @@
+.new-training-form {
+  position: absolute;
+  top: inherit;
+  z-index: 99;
+  width: 500px;
+  border-radius: 4px;
+  border: 1px solid rgba(0,0,0,0.2);
+  padding: 15px;
+  background-color: #e6e6e6;
+}
+
+.close-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.hide {
+  display: none;
+}
